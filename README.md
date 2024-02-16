@@ -8,7 +8,7 @@ Acreditamos na importância de contribuir para o sistema tributário de forma ju
 
 Bons estudos. 
 
-# Taxable Events in Bitcoin and Crypto Assets
+# Taxable Events in Bitcoin and Cryptoassets
 
 Many of the materials publicly available in the repositories of this account aim to educate about technical aspects of Bitcoin. However, we cannot neglect to minimally position ourselves regarding the context of purchasing and using crypto assets.
 
